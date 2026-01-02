@@ -5,9 +5,9 @@
 
 ## Skills
 . HTML, CSS, Bootstrap
-. JavaScript
-. React (Basics)
-. Node.js & MySQL (Basics)
+. JavaScript 
+. React.js
+. Node.js & MySQL & Express
 . Good Listener                                                                                 
 •	 Microsoft Word
 •	Microsoft Excel	         
@@ -22,4 +22,4 @@
    LinkedIn:( https://www.linkedin.com/in/dinasamy- a678242b7/  )
   
 
-
+"!Always learning , always growing " 
