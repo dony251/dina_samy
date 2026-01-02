@@ -1,1 +1,25 @@
-# dina_samy
+# Hi 👋 I'm Dina Samy
+
+🎓 Information Systems Student  
+💻 Front-End & Full Stack Developer (Learning)  
+
+## Skills
+. HTML, CSS, Bootstrap
+. JavaScript
+. React (Basics)
+. Node.js & MySQL (Basics)
+. Good Listener                                                                                 
+•	 Microsoft Word
+•	Microsoft Excel	         
+•	 Team Player
+•	Quick Learner	            
+•	good with math
+•	High self-awareness                                                                     
+•	Volunteer worker
+•	Microsoft PowerPoint   
+
+  Conect with me :
+   LinkedIn:( https://www.linkedin.com/in/dinasamy- a678242b7/  )
+  
+
+
